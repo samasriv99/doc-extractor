@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+gradio
+pydantic>=2
+openai
+google-generativeai
+PyMuPDF
+requests
